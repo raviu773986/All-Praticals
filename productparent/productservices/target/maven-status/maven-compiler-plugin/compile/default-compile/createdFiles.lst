@@ -1,0 +1,5 @@
+com/ru/product/bo/ProductBo.class
+com/ru/product/dao/ProductDAOimpl.class
+com/ru/product/dao/ProductDAO.class
+com/ru/product/bo/ProductBOimpl.class
+com/ru/product/dto/Product.class
